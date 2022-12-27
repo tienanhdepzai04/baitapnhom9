@@ -1,4 +1,5 @@
 import os, csv
+khu_vuuc= [0.5,1,0]
 def them_hoc_sinh(danh_sach):
     while True:
         mats=input('mã thí sinh: ')
